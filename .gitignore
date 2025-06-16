@@ -1,0 +1,17 @@
+# Vscode
+.vscode
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+#Pytest-generated files
+.pytest_cache
+.coverage
+
+# Virtual environments
+.venv
